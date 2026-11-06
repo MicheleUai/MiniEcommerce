@@ -1,0 +1,1 @@
+Estrutura: Produto aplica validacoes; Catalogo gerencia produtos; CarrinhoDeCompras soma itens e verifica estoque; Pedido finaliza compras e atualiza estoque. Program.cs oferece menu via terminal.
